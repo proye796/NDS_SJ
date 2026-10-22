@@ -15,7 +15,7 @@
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| StrangeJourney-KO-v1.0.nds | 128,893,512 | 618e9b6b8dfb6adc4330aeec17a46ed026438b301b9809a4d1a23c02d712ae9b |
+| StrangeJourney-KO-v1.0.nds | 128,893,512 | e41c4b5417787241e3b44d352d79e02fec731dd8cb821dbbf9c1cbc2f94ff8f9 |
 
 결과 ROM은 원본보다 작습니다. 쓰지 않는 끝부분이 빠진 크기이며 정상입니다.
 
@@ -23,5 +23,5 @@
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| StrangeJourney-KO-v1.0.zip | 8,397,064 | c356cae8f419619e98d6d0270042a8ebc7a507197eecbb5d11dc8f8ff536fa7e |
-| StrangeJourney-KO-v1.0.bps | 10,434,247 | 6c4f0e8b4e6c022b20a2a47acb98c3320edc566ec83f76fba2118a4ce51e956a |
+| StrangeJourney-KO-v1.0.zip | 8,396,873 | 93a9d08faee0179df73fbc5521513ca1f348ca153bf14e1671ae3acc7acd7945 |
+| StrangeJourney-KO-v1.0.bps | 10,434,247 | b44fe453f759ef3b9bb449fdabff268820a3116edcd5a2b473e89125fe3bbf2c |
