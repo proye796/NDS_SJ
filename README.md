@@ -1,4 +1,4 @@
-# 真・女神転生 STRANGE JOURNEY NDS 한국어 패치 v1.0.1
+# 真・女神転生 STRANGE JOURNEY NDS 한국어 패치 v1.0.2
 
 배포일: 2026-10-24
 대상: 真・女神転生 STRANGE JOURNEY 일본판
