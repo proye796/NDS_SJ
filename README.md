@@ -1,6 +1,6 @@
-# 真・女神転生 STRANGE JOURNEY NDS 한국어 패치 v1.0
+# 真・女神転生 STRANGE JOURNEY NDS 한국어 패치 v1.0.1
 
-배포일: 2026-10-23
+배포일: 2026-10-24
 대상: 真・女神転生 STRANGE JOURNEY 일본판
 
 배포 ZIP에는 원본 ROM이나 패치 완료 ROM이 포함되지 않습니다. 정품에서 추출한 아래 해시와 일치하는 일본판 NDS ROM이 필요합니다. 크기를 줄인(트리밍한) ROM에는 적용되지 않습니다.
@@ -15,7 +15,7 @@
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| StrangeJourney-KO-v1.0.nds | 128,893,512 | e41c4b5417787241e3b44d352d79e02fec731dd8cb821dbbf9c1cbc2f94ff8f9 |
+| StrangeJourney-KO-v1.0.1.nds | 128,893,512 | 792b0a15d586a0fc157d31e0ffc4da90e3b24381ac7c0ccca0b71d55811d226c |
 
 결과 ROM은 원본보다 작습니다. 쓰지 않는 끝부분이 빠진 크기이며 정상입니다.
 
@@ -23,5 +23,5 @@
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| StrangeJourney-KO-v1.0.zip | 8,396,873 | 93a9d08faee0179df73fbc5521513ca1f348ca153bf14e1671ae3acc7acd7945 |
-| StrangeJourney-KO-v1.0.bps | 10,434,247 | b44fe453f759ef3b9bb449fdabff268820a3116edcd5a2b473e89125fe3bbf2c |
+| StrangeJourney-KO-v1.0.1.zip | 8,397,567 | bac3dec6f501c11fb8943d78ed582b63058c1785ed56b0fba78de99393178294 |
+| StrangeJourney-KO-v1.0.1.bps | 10,434,231 | 8434acd18bbac85a12e22b208e750a0b57b470b1dd26525f174596014178da33 |
